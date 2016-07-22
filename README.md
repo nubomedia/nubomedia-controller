@@ -1,6 +1,6 @@
 # NUBOMEDIA Controller
 
-This project is part of NUBOMEDIA project: [NUBOMEDIA][nubomedia.eu]
+This project is part of NUBOMEDIA project: [nubomedia.eu][NUBOMEDIA]
 
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
