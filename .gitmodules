@@ -7,3 +7,9 @@
 [submodule "nubomedia-msvnfm"]
 	path = nubomedia-msvnfm
 	url = https://github.com/nubomedia/nubomedia-msvnfm.git
+[submodule "NFVO"]
+	path = NFVO
+	url = https://github.com/openbaton/NFVO.git
+[submodule "generic-vnfm"]
+	path = generic-vnfm
+	url = https://github.com/openbaton/generic-vnfm.git
