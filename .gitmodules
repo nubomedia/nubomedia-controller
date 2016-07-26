@@ -1,3 +1,9 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/nubomedia/marketplace.git
+[submodule "nubomedia-paas"]
+	path = nubomedia-paas
+	url = git@github:nubomedia/nubomedia-paas.git
+[submodule "nubomedia-msvnfm"]
+	path = nubomedia-msvnfm
+	url = git@github:nubomedia/nubomedia-msvnfm.git
