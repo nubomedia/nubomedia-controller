@@ -4,7 +4,7 @@ This project is part of NUBOMEDIA project: [nubomedia.eu][NUBOMEDIA]
 
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
-Copyright © 2016 [NUBOMEDIA]. Licensed under [LGPL v2.1 License].
+Copyright © 2016 [NUBOMEDIA]. Licensed under [Apache 2.0 License].
 
 The NUBOMEDIA Controller (nubomedia-controller) is an integration of different projects providing together the PaaS functionalities for Multimedia Applications.
 
@@ -12,11 +12,11 @@ The NUBOMEDIA Controller (nubomedia-controller) is an integration of different p
 
 The NUBOMEDIA Controller contains the following components: 
 
- * NUBOMEDIA Platform as a Service (v1.3.0)
- * NUBOMEDIA Marketplace (v1.0.0)
- * Open Baton NFV Orchestrator (v2.0.1)
- * Open Baton Generic VNFM (v2.0.1)
- * Kurento VNFM (v1.1.0) 
+ * NUBOMEDIA Platform as a Service
+ * NUBOMEDIA Marketplace
+ * Open Baton NFV Orchestrator
+ * Open Baton Generic VNFM 
+ * Kurento VNFM
 
 Please refer to the NUBOMEDIA Architecture deliverable [NUBOMEDIA D2.4.2] for more details about the interaction between different components. Here you can find the architecture diagram.
 
@@ -141,10 +141,10 @@ with the following guidelines
 
 The NUBOMEDIA community provides support through the [NUBOMEDIA Public Mailing List].
 
+[Apache 2.0 License]: https://www.apache.org/licenses/LICENSE-2.0.txt
 [Development Guide]: http://nubomedia.readthedocs.org/
 [GitHub Issues]: https://github.com/tub-nubomedia/marketplace/issues
 [GitHub NUBOMEDIA Group]: https://github.com/nubomedia
-[LGPL v2.1 License]: http://www.gnu.org/licenses/lgpl-2.1.html
 [NUBOMEDIA Architecture]: http://www.nubomedia.eu/sites/default/files/images/nubomedia-arch-600.png
 [NUBOMEDIA D2.4.2]:http://www.nubomedia.eu/sites/default/deliverables/WP2/D2.4.2_Architecture_R6_V2_26-01-2016_FINAL-PC.pdf
 [NUBOMEDIA Logo]: http://www.nubomedia.eu/sites/default/files/nubomedia_logo-small.png
