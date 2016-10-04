@@ -4,8 +4,6 @@ This project is part of NUBOMEDIA project: [nubomedia.eu][NUBOMEDIA]
 
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
-Copyright © 2016 [NUBOMEDIA]. Licensed under [Apache 2.0 License].
-
 The NUBOMEDIA Controller (nubomedia-controller) is an integration of different projects providing together the PaaS functionalities for Multimedia Applications.
 
 ## Component List
@@ -106,14 +104,7 @@ Issues and bug reports should be posted to [GitHub Issues].
 
 # Licensing and distribution
 
-Software associated to NUBOMEDIA is provided as open source under GNU Library or
-"Lesser" General Public License, version 2.1 (LGPL-2.1). Please check the
-specific terms and conditions linked to this open source license at
-http://opensource.org/licenses/LGPL-2.1. Please note that software derived as a
-result of modifying the source code of NUBOMEDIA software in order to fix a bug
-or incorporate enhancements is considered a derivative work of the product.
-Software that merely uses or aggregates (i.e. links to) an otherwise unmodified
-version of existing software is not considered a derivative work.
+For licensing and distribution, please refer to each of the children submodules.
 
 # Contribution policy
 
