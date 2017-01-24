@@ -13,3 +13,6 @@
 [submodule "generic-vnfm"]
 	path = generic-vnfm
 	url = https://github.com/openbaton/generic-vnfm.git
+[submodule "connectivity-manager"]
+	path = connectivity-manager
+	url = https://github.com/nubomedia/connectivity-manager.git
